@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./public/stylesheets/input.css -o ./public/stylesheets/style.css --watch"
+   "test": "echo \"Error: no test specified\" && exit 1",
   },
   "keywords": [],
   "author": "",
